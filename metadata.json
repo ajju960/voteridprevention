@@ -1,0 +1,6 @@
+{
+  "name": "Universal Voter Integrity & Authentication System",
+  "description": "A secure digital voting ecosystem prototype demonstrating voter registration, identity verification, duplicate detection, secure authentication, anonymous vote storage, and admin audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
